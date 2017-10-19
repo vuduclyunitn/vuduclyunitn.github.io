@@ -23,7 +23,7 @@ body {
 <a href="https://github.com/vuduclyunitn/vuduclyunitn.github.io/blob/master/MLWorkshop.pdf">Workshop at BHK JSC</a>.
 
 <h1>Progress</h1>
-<time datetime="2017-02-14">Deploying machine learning</time>
+<p><time datetime="2017-02-14">Deploying machine learning</time></p>
 <time datetime="2017-02-14">Extracting dynamic features</time>.</li>
  <time datetime="2017-02-14"> Extracting static features</time>.
 </ul>
