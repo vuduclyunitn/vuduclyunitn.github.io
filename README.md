@@ -23,10 +23,9 @@ body {
 <a href="https://github.com/vuduclyunitn/vuduclyunitn.github.io/blob/master/MLWorkshop.pdf">Workshop at BHK JSC</a>.
 
 <h1>Progress</h1>
-<ul>
-  <li> <time datetime="2017-02-14">Deploying machine learning</time></li> 
-  <li>11/2017: Extracting dynamic features</time>.</li>
-  <li>10/2017: Extracting static features</time>.  </li>
+<time datetime="2017-02-14">Deploying machine learning</time>
+<time datetime="2017-02-14">Extracting dynamic features</time>.</li>
+ <time datetime="2017-02-14"> Extracting static features</time>.
 </ul>
 
 </body>
