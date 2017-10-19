@@ -15,8 +15,8 @@ body {
 <h1>Our Members</h1>
 <ul>
   <li><a href="mailto:ducly.vu@unitn.it">Vu Duc Ly</a>.<br> </li> 
-  <li>Phan Van Tam</li>
-  <li>Nguyent Hong Tat</li>
+  <li> <a href="mailto:itis.phanthanhtam@gmail.com">Phan Thanh Tam </a>.</li>
+  <li> <a href="mailto:youarecatched2015@gmail.com">Nguyent Hong Tat</a>.  </li>
 </ul>
 
 </body>
