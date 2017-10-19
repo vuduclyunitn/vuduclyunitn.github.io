@@ -20,6 +20,6 @@ body {
 </ul>
 
 <h1>Activities</h1>
-<a href="mailto:ducly.vu@unitn.it">Workshop at BHK JSC</a>.
+<a href="https://github.com/vuduclyunitn/vuduclyunitn.github.io/blob/master/MLWorkshop.pdf">Workshop at BHK JSC</a>.
 </body>
 </html>
