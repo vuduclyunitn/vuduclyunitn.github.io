@@ -24,7 +24,7 @@ body {
 
 <h1>Progress</h1>
 <ul>
-  <li> <time datetime="2017-02-14"> 12/2017: Deploying machine learning</time></li> 
+  <li> <time datetime="2017-02-14">Deploying machine learning</time></li> 
   <li>11/2017: Extracting dynamic features</time>.</li>
   <li>10/2017: Extracting static features</time>.  </li>
 </ul>
