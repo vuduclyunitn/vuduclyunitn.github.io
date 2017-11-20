@@ -17,9 +17,11 @@ body {
   <li><a href="ly.html">Vu Duc Ly</a>.<br> </li> 
   <li> <a href="mailto:itis.phanthanhtam@gmail.com">Phan Thanh Tam </a>.</li>
 </ul>
-<a href="drawing.html">Some draws</a>
+
 <h1>Activities</h1>
 <a href="https://github.com/vuduclyunitn/vuduclyunitn.github.io/blob/master/MLWorkshop.pdf">Workshop at BHK JSC</a>.
+
+<h1>Datasets</h1>
 
 <h1>Progress</h1>
 <p>2017-12: Deploying machine learning </p>
