@@ -14,7 +14,7 @@ body {
 
 <h1>Members</h1>
 <ul>
-  <li><a href="mailto:ducly.vu@unitn.it">Vu Duc Ly</a>.<br> </li> 
+  <li><a href="ly.html">Vu Duc Ly</a>.<br> </li> 
   <li> <a href="mailto:itis.phanthanhtam@gmail.com">Phan Thanh Tam </a>.</li>
 </ul>
 <a href="drawing.html">Some draws</a>
