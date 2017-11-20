@@ -2,7 +2,7 @@
 
 <html>
 <p>VSEC Lab.</p>
-<p>We works on malware detection, binary exploiting using machine learning. </p>
+<p>We work on malware detection, binary exploiting using machine learning. </p>
   <head>
 <style>
 body {
