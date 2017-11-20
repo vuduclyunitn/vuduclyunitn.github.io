@@ -17,7 +17,7 @@ body {
   <li><a href="mailto:ducly.vu@unitn.it">Vu Duc Ly</a>.<br> </li> 
   <li> <a href="mailto:itis.phanthanhtam@gmail.com">Phan Thanh Tam </a>.</li>
 </ul>
-
+<a href="drawing.html">Some draws</a>
 <h1>Activities</h1>
 <a href="https://github.com/vuduclyunitn/vuduclyunitn.github.io/blob/master/MLWorkshop.pdf">Workshop at BHK JSC</a>.
 
