@@ -23,6 +23,8 @@ body {
 
 <h1>Datasets</h1>
 
+<h1>Testing</h1>
+<?php include 'footer.php';?>
 <h1>Progress</h1>
 <p>2017-12: Deploying machine learning </p>
 <p>2017-11: Extracting dynamic features</p>
