@@ -32,6 +32,9 @@ body {
 <p>2017-10: Extracting static features.</p>
 
 <h1>Testing page</h1>
+<a href="timesheet.html">Timesheet</a>
+
+<h1>Testing page</h1>
 <a href="test.html">Click here</a>
 </body>
 </html>
