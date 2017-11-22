@@ -26,6 +26,7 @@ body {
 <h1>Check Antivirus</h1>
 <a href="myav.html">Click here</a>
 <h1>Progress</h1>
+<p>2017-11-22: Connect to MongoDB </p>
 <p>2017-12: Deploying machine learning </p>
 <p>2017-11: Extracting dynamic features</p>
 <p>2017-10: Extracting static features.</p>
