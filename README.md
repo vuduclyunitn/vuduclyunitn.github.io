@@ -28,10 +28,9 @@ body {
 <h1>Progress</h1>
 <p>2017-12: Deploying machine learning </p>
 <p>2017-11: Extracting dynamic features</p>
- <p>2017-10: Extracting static features.</p>
+<p>2017-10: Extracting static features.</p>
 
-
+<h1>Testing page</h1>
+<a href="test.html">Click here</a>
 </body>
 </html>
-
-
