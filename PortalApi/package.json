@@ -1,0 +1,11 @@
+{
+  "name": "portalapi",
+  "version": "1.0.0",
+  "description": "API for portal usages - perform CRUD operations with DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
