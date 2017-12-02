@@ -1,8 +1,11 @@
 'use strict';
 
-module.exports = function (app) {
+module.exports = function(app) {
     var portalApis = require('../controllers/portalApiController');
 
-    app.route('/uploadFile')
-        .post(portalApis.uploadFile);
+    app.route('/')
+        .get(portalApis.home);
+
+    app.route('/upload')
+        .post(portalApis.upload);
 };

@@ -14,6 +14,11 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+h4 {
+    margin-top: 15px;
+    color: #68757E;
+}
+
 .row {
     margin-top: 80px;
 }
