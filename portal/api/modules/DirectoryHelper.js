@@ -2,23 +2,27 @@
 
 var fs = require('fs');
 var path = require('path');
+var crypto = require('crypto');
 
 exports.makeDir = function(uploadDir) {
-    var newDir = path.join(uploadDir, newFolder());
-    if (!fs.existsSync(newDir)) {
-        fs.mkdirSync(newDir);
-    }
+    var newDir = path.join(uploadDir, getContainerFolder());
+    makeDirIfNotExist(uploadDir);
+    makeDirIfNotExist(newDir);
     return newDir;
 };
 
-var newFolder = function() {
-    var date = new Date();
-    return date.getTime() + '_' + randomString();
+var makeDirIfNotExist = function(dir) {
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir);
+    }
 };
 
-var randomString = function(length) {
-    if (Number.isInteger(length) && length > 0) {
-        return Math.random().toString(36).substring(length);
-    }
-    return Math.random().toString(36).substring(5);
+var getContainerFolder = function() {
+    return createHash();
+};
+
+var createHash = function() {
+    var currentDate = (new Date()).valueOf().toString();
+    var random = Math.random().toString();
+    return crypto.createHash('sha1').update(currentDate + random).digest('hex');
 };
