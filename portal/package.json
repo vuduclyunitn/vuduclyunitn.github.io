@@ -4,7 +4,9 @@
   "description": "API for portal usages - perform CRUD operations with DB",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +17,8 @@
     "crypto": "^1.0.1",
     "express": "^4.16.2",
     "formidable": "^1.1.1",
-    "mongoose": "^4.13.5"
-  }
+    "mongoose": "^4.13.5",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
